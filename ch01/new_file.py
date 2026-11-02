@@ -1,1 +1,1 @@
-print("새파일 입니다.")
+print("new file@@@")
